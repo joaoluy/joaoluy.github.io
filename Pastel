@@ -1,0 +1,31 @@
+    <!DOCTYPE html>
+<html>
+  <head>
+    <title>Pastel caseiro</title>
+  </head>
+  <body>
+    <a href="file:///D:/faculdade/site%20receitas.html"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/61/61449.png" width="50" height="40"/>
+    </a>
+    <h1>Ingredientes:</h1>
+    <p>500 grramas de farinha de trigo</p>
+    <p>1 colher (cha) de sal</p>
+    <p>1 colher (sopa) de aguardente ou vinagre branco</p>
+    <p>200 ml de água morna</p>
+    <p>1 colher(sopa) de óleo</p>
+    <p>Oleo para fritar</p>
+    <h1>Modo de Preparo:</h1>
+    <p>Em uma vasilha coloque a farinha, o óleo e o vinagre</p>
+    <p>Misturar colocando água (conforme pede)</p>
+    <p>Amasse até ficar bem lisa (não dura)</p>
+    <p>Deixe descansar</p>
+    <p>Corte a massa no meio, abre bem fina e corte em quadrados, recheie, feche e frite</p>
+    <br>
+    <p>Sujestoes de recheio:</p>
+    <p>Frango e catupiry</p>
+    <p>Carne e queijo</p>
+    <p>Presunto, queijo e catupiry</p>
+    <p>Chocolate</p>
+    <img src="https://guiadopastel.com.br/wp-content/uploads/2020/04/4-receitas-de-massa-de-pastel-dourado-1200x675.jpg" width="300" height="250"/>
+  </body>
+</html>
